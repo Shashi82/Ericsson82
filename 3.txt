@@ -1,2 +1,3 @@
 welcome hi
 today is sunday
+training started
